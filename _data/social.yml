@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto:bebe217@naver.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
-  icon: fab fa-github
+# - title: Twitter
+#   url: https://twitter.com/vszhub
+#   icon: fab fa-twitter
+# - title: GitHub
+#   url: https://github.com/bebe217/
+#   icon: fab fa-github
