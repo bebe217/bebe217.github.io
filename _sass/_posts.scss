@@ -20,6 +20,14 @@
   li + li {
     margin-top: .25rem;
   }
+
+  img {
+    padding-right: 20px;
+    float: left;
+  }
+}
+.clearer {
+  clear: both;
 }
 
 // Blog post or page title
