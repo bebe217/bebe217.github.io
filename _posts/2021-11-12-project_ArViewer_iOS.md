@@ -1,0 +1,38 @@
+---
+layout: post
+title: AR Viewer iOS 배치 기능 개선 / 어반베이스
+date: 2021-11-12 23:18 +0800
+last_modified_at: 2021-11-12 01:08:25 +0800
+tags: [프로젝트, 포트폴리오, iOS, AR]
+toc: false
+---
+
+프로젝트 기간<br>
+2021.11 ~ 2022.1<br>
+<br>
+AR Viewer iOS 배치 기능 개선
+
+> 자사 Asset들로 AR기능을 사용할 수 있도록 제공하는 SDK
+
+기존에 바닥에만 배치되었던 애셋을 벽면 및 천장에도 배치되도록 개선
+
+***
+회사 AR SDK에 추가기능을 개발하며 AR과 3D관련 지식에 발을 딛게 되었습니다. 처음에 개념을 잡기 어려웠지만, 여러 가이드 영상들과 질문하면 적극적으로 알려주신 팀과 3D부서 동료분들 덕분에 원활한 개발이 가능하였습니다.
+  
+### 기술스택
+
+- Swift
+  
+협업툴
+- Bitbucket, Jira, Confluence, Zeplin
+  
+***
+
+### 주요 화면
+<br>
+<img width="50%" src="https://lh3.googleusercontent.com/fife/ALs6j_F4RUwhDywxtHKS8m8HN_w_GBVfqQk5dVfnRgeuoL05C7Qn3MWUcVA-6gF9M1b3XsmzRrqmuEE59dHwdLlnlXe4D75OQh_ThYNKwzqv8DJn3tEVVIbBGi8sWz65VnAtz9NcMRtdDXfMmGiwo5rt8M_wICZa4KKyRP-c-z2SGEYoNw-1prW_H-Cf5n29ENZtUBOfQAXC169gnGB5ixSkQlrm1XtH4xs7LGa7kZr1zIGlUavW29orsFDeA501gh_FRWpHZ7nT5K-h6EEUp89akIz6xG7WKlajmoSY0w1A6dkiKu1LREkIlMqTptS-b-cFkMnra_Fe2WvsSZFckcbfeJsoCBJgUMBATmS3zX9DxQPz_d1vszo-L3CLwAy5ROyxmBmNdxu624Hel3iOxg7PAvPXSl9ksTlxaZGsjhpk3UGS_dFcblr_G9VZys1g5PIJIVC0p7hwmP6QtytrpY-0I0md_FHa8shrOZdtcV3Z8jsspE3LZ8J4Z-hjZUIzqpoz3ElKr7dGu5baXsXHJ04tt1qEEF-Q5JXjIWHA7ZQ79coZgMuRmW-QT_3XOggV2w-UWwVbbR5vu65EqtEfmV_0rAW0ffemv2lzrZJrbh-CF_Pg6hvbC5xFIIZXTKO83HA0Mg_TGtRMu8Agw4u5lrE6-vogIm8Gg1Z0YkJ1oEqMwn2n99AH1e6xikrnXPoxGlRRuFPvK2VKWen7Y0XYaoMSdQxcbX6OOI1ZP78U0j_D8FkWcYM78YvdAjytsLD5IvqI3i_4zLwbLqtcRLPVtHNXJ5mrxJwH6P5RHq_XP8F0Dq3hVGQCJz5ZBLU4F_wSROqvCBMTvwDOaLUSlzzszeKG2GGSDjKOix_XWSILNWVNTr47A9l-vkCN3vYSXrEtLNADZNh2ceZlNgYUpzHpv-wDoyaseSFqSZoGdREFQ-wBP6t2R0AR6tJu67pKVhdAazmdL1vN6ls=w3420-h1846-rw-v1">
+<img width="50%" src="https://lh3.googleusercontent.com/fife/ALs6j_GJbT7Y1ajdYXn7Z69V8PEbVWyAu26FfMRa_E_N-hVSO9xxNO_ZOTcZEsUT-5LKFG_1YfwefST5zOUt9fy8-NaLoudcP1DNOqDRr3ftli-rwtPwt4CsggXtR0s2wDsmDSDEYkOk1wLwDGcVJs5KtxzmydbAb5mFsBHvCe3trVaT4OOUspzZ8pBJE1w-4M-r-itUNIpZo5bqyNJOLgwPCP74vz8D8LNI1ypDzDVNMvihPVLnzK2AzVewEzwRssKJsL96giOZkQUjXc2J0tbnmdOPxSSa4UruVMF-_S9nhxl2EnnSltg85VLclolYAByQcBBdc5RVtixvc_2Ntd4PkgANuec8mRXgDSWgm5XF_Lf_cE9ozUK88zUSmXx8f1fGfLERbegQCsEH6Ds_z2yW-9HeU4jWvEKtppD6tUw4gY3wZmEEZy7ItZkR_Jdxc4XBpLLslpjzbpWZxC5Ywpl3_TMtk1sqxdVl1_lYoyJ_qrMJSFow9MvksxIPD7k2V0SC619UVWt7BHwBDAOf5oipy_pMnRs7sOR7HBqxpssJAHHT8HevoPsrOKtSi7W_xlVF5iiebOBpLpb4AlnBkxsp9h0NdR3eyUHMGzt_R63BsGTfveQLFY0O-3ZItzJFNNy4UdEUFFE2ZLm07KDA94oVRltV2GHcRMkaA9cdC9nTPTshC8XFX31u-qS8sOLLjtD0DWG6JC81Zhz0uLeqxJq0CcJ5GJxkM0RlX5knPJFlf0wdOeFsvqb-mxThfWQSmnrTb4IqMAVSSKE9ynoupW7utZvy7ZIuQmFSy4N_Q_DkMj1uPvMRpuaNn0QI5XJ7A4ru00jKKUabqRg1NKYI9hIeyN5mdiKYzb8GDLwS__Zk3RX3ZNlJqJLrkchi4l5FkFPN5ckuyZ1Q1mQfUNB5v2KufO3MVymZvZMyvk9eTRYiDmIiSQubgxLsqJHWTeKldw7oLjh9AbE=w3420-h1846-rw-v1">
+
+<br class="clearer" />
+
+
