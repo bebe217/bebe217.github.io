@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Urbanbse 3D Studio / 어반베이스
+title: Urbanbase 3D Studio iOS / 어반베이스
 date: 2022-07-22 23:18 +0800
 last_modified_at: 2023-01-19 01:08:25 +0800
 tags: [프로젝트, 포트폴리오, iOS, AR, 3D]
@@ -8,7 +8,7 @@ toc: false
 ---
 
 
-Urbanbse 3D Studio Tablet iOS 신규 개발
+Urbanbase 3D Studio Tablet iOS 신규 개발
 
 >  기존에 웹으로 서비스증인 3D 인테리어 서비스를 태블릿 앱으로 신규개발
 
