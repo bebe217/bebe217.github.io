@@ -29,7 +29,7 @@ iOS개발 당시 Unity협업은 팀장님이 도맡아 해서 경험해 보지 �
 
 - Kotlin, Google Map, 자사 ARViewer SDK, Unity(3D팀 사이드)
 
-- Bitbucket, Jira, Firebase App Distribution
+- Bitbucket, Jira, Figma, Firebase App Distribution
   
 ***
 

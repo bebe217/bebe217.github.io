@@ -44,7 +44,7 @@ Urbanbase 3D Studio Tablet iOS 신규 개발
 
 - Swift, StoryBoard, Google Map, 자사 ARViewer SDK, Unity(3D팀 사이드)
 
-- Bitbucket, Jira, Firebase App Distribution
+- Bitbucket, Jira, Figma, Firebase App Distribution
   
 ***
 
