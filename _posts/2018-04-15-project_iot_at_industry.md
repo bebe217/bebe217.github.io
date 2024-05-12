@@ -7,9 +7,7 @@ tags: [프로젝트, 포트폴리오, 안드로이드]
 toc: false
 ---
 
-프로젝트 기간<br>
-2016.04 ~ 2018.04<br>
-<br>
+
 IoT@Industry 통합 사용자앱 개발
 
 > 공장 출입감지 및 앱 접근 제한 산업 IoT 어플리케이션
@@ -41,14 +39,9 @@ iOS 신규 개발(Swift)
   
 ### 기술스택
 
-개발언어
 - Java, Swift
-  
-버전관리
-- Svn
-  
-협업툴
-- Trello, Excel
+
+- Svn, Trello, Excel
   
 ***
 

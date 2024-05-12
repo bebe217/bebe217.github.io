@@ -7,9 +7,6 @@ tags: [프로젝트, 포트폴리오, 안드로이드]
 toc:  false
 ---
 
-프로젝트 기간<br>
-2018.07 ~ 2019.09
-
 오늘당장 안드로이드 앱 개발
 
 > 사용자와 사용자 사이의 서비스 중개 어플리케이션
@@ -33,17 +30,9 @@ toc:  false
 
 ### 기술스택
 
-개발언어
-- Java
+- Java, MVVM, Retrofit, Glide, uCrop
   
-버전관리
-- Git
-  
-협업툴
-- Notion, Zeplin
-  
-라이브러리
-- Retrofit, Glide, uCrop
+- Bitbucket, Notion, Zeplin
 
 ***
 

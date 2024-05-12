@@ -1,29 +1,28 @@
 ---
 layout: post
-title: AR Viewer iOS 배치 기능 개선 / 어반베이스
+title: AR Viewer SDK 추가 기능 개발 / 어반베이스
 date: 2021-11-12 23:18 +0800
-last_modified_at: 2021-11-12 01:08:25 +0800
+last_modified_at: 2022-01-12 01:08:25 +0800
 tags: [프로젝트, 포트폴리오, iOS, AR]
 toc: false
 ---
 
-프로젝트 기간<br>
-2021.11 ~ 2022.1<br>
-<br>
-AR Viewer iOS 배치 기능 개선
+
+AR Viewer 배치 기능 개선
 
 > 자사 Asset들로 AR기능을 사용할 수 있도록 제공하는 SDK
-
-기존에 바닥에만 배치되었던 애셋을 벽면 및 천장에도 배치되도록 개선
 
 ***
 회사 AR SDK에 추가기능을 개발하며 AR과 3D관련 지식에 발을 딛게 되었습니다. 처음에 개념을 잡기 어려웠지만, 여러 가이드 영상들과 질문하면 적극적으로 알려주신 팀과 3D부서 동료분들 덕분에 원활한 개발이 가능하였습니다.
   
+### 담당업무
+AR Viewer iOS 배치 기능 개선
+- 기존에 바닥에만 배치되었던 애셋을 벽면 및 천장에도 배치되도록 개선
+
 ### 기술스택
 
-- Swift
-  
-협업툴
+- Swift, SceneKit
+
 - Bitbucket, Jira, Confluence, Zeplin
   
 ***
