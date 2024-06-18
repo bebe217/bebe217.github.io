@@ -41,4 +41,4 @@ iOS개발 당시 Unity협업은 팀장님이 도맡아 해서 경험해 보지 �
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zrIe2YoI2FU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 현위치 기능 추가
-<img width="100%" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYhxmr90ddM5fec5gH3GhCEcYackVEYGqIOzrwRJiIGgm99itBX-4oWp_5pW2hCt3-tyVXG2sXHMbFjr_4m_0JWEIlMwquUjG0=w3420-h1846-rw-v1">
+<img width="100%" src="/assets/images/currentlocation.jpg">

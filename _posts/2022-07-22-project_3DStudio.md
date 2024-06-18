@@ -51,10 +51,10 @@ Urbanbase 3D Studio Tablet iOS 신규 개발
 
 
 앱스토어 화면
-<img width="100%" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYG6SUK46RIUOmox38jAlciPDOjiiaHVv7kX_M_-hGjV8xMyh2fU0aIw7E7E0V8dJ3hhSCeOtya6afinii5m68fbF70LZKBOK4=w3420-h1846-rw-v1">
+<img width="100%" src="/assets/images/studiostore.PNG">
 
 기업별 스튜디오 선택화면
-<img width="100%" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYxs77OijSClFA7n62k3GUhwRGCVcLeFmZ2XhlGJXFtGEDQUoUlP_Y4IcXNln6z1n048gDGGU1RvLx14DvGkpictZdoQXAJJfs=w3420-h1846-rw-v1">
+<img width="100%" src="/assets/images/select_studio.png">
 
 로그인
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_TkLprw2BEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

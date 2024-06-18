@@ -34,7 +34,7 @@ iOS직무로 입사하였지만 회사 서비스 및 AR에 적응하기 위해 �
 
 ### 주요 화면
 <br>
-<img width="50%" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaOu6PY4kYGsWOvBdalrn-9vE4W7W6CMT1MtIhDWZLPf-AE_ESiRTgZc6uvKW4Qt0JiQ5bHpj3ID828BLWt6WV6Q71EVWeH22o=w3420-h1846-rw-v1">
+<img width="50%" src="/assets/images/ubar_android.png">
 
 <br class="clearer" />
 

@@ -56,7 +56,7 @@ IoT 어플리케이션 및 관리자웹 등 기타 외주 개발
 마지막으로 전 회사에서 에셋과의 한때들을 공유드리면서 마치겠습니다!😆
 <br>
 
-<img width="23%" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYHzpWdazmMwVyv1tAizFw5HSbU-MCFsVL0vd07hpJu2-s-ZQbpaPnOcNQIHl6pvMT3gzixLh8aWtNNXRPl4QDDXvzRcPJmgfM=w3420-h1846-rw-v1">
+<img width="23%" src="/assets/images/mypicwithasset.png">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NV98R3O4N6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
