@@ -34,6 +34,8 @@ toc: false
 
 ### 주요 화면
 
+전시회 공간
+<img width="100%" src="/assets/images/9f02972b8ccddcf5b29dccf0b9d62871.jpg">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cdt_vAbbIZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
