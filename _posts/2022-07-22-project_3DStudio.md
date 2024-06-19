@@ -51,7 +51,7 @@ Urbanbase 3D Studio Tablet iOS 신규 개발
 
 
 앱스토어 화면
-<img width="100%" src="/assets/images/studiostore.PNG">
+<img width="100%" src="/assets/images/studiostore.png">
 
 기업별 스튜디오 선택화면
 <img width="100%" src="/assets/images/select_studio.png">
