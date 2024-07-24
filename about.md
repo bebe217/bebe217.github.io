@@ -14,13 +14,17 @@ title: About
 ***
 
 ##### 2024.01 ~ 
-##### 팀프로젝트 진행중
+##### 인생비서
 
 주제별 정보 추천 크로스플랫폼 앱
 
-React Native 체험이 목적이었으나 백엔드인력이 부족하여 오랜만에 미뤄뒀던 백엔드 지식도 탐험중에 있습니다🤓
+전 회사 동료들과 쉬는기간 만든 사이드프로젝트입니다.  
+React Native 체험이 목적이었으나 백엔드인력이 부족하여 백엔드를 주로 개발하였습니다🤓
+
 - AWS, Spring Boot(Kotlin, JPA), MySQL
 - React Native (sub)
+
+[인생비서 - Life Secretary on the App Store](https://apps.apple.com/kr/app/%EC%9D%B8%EC%83%9D%EB%B9%84%EC%84%9C/id6484271794)
 
 ## 경력
 ##### 2021.08 ~ 2023.11
@@ -58,13 +62,6 @@ IoT 어플리케이션 및 관리자웹 등 기타 외주 개발
 <br>
 바쁜 세상 속에 경쟁보다는 넓은 세상을 둘러보며 천천히 걸어가는 것을 선호하여 남들보다 비교적 비어있는 이력을 갖고 있지만 그 빈 공간을 채울 수 있는 저의 다른 장점 또한 보여드리고 싶습니다.<br>
 현재는 잠시 쉬어가며 전 직장 동료들과 사이드 프로젝트를 개발하며 성장의 기회로 삼고 있습니다.🤠<br>
-<br>
-마지막으로 전 회사에서 에셋과의 한때들을 공유드리면서 마치겠습니다!😆
-<br>
-
-<img width="30%" src="/assets/images/mypicwithasset.png">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NV98R3O4N6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ### 읽어주셔서 감사합니다🤗
